@@ -6,3 +6,5 @@ Este projeto consiste em pegar os dados de uma API de pessoas pública e ordená
 ![search random persons](https://github.com/ItaloFalzoni/search-random-persons/blob/main/assets/random-persons-preview-2.PNG)
 
 Link da documentação da API: https://randomuser.me/
+
+Este prejeto foi desenvolvido junto com o curso Desenvolvimento Full Stack do IGTI 2020.
